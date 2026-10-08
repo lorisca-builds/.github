@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="Builds — Tools that work.">
+  <!-- backdrop -->
+  <rect width="1280" height="480" fill="#eef2f6"/>
+  <rect y="0" width="1280" height="8" fill="#1e2d42"/>
+  <rect y="472" width="1280" height="8" fill="#1e2d42"/>
+
+  <!-- hairline frame -->
+  <rect x="40" y="44" width="1200" height="392" fill="none" stroke="#d5dfe8" stroke-width="2"/>
+
+  <!-- left: wordmark block -->
+  <text x="88" y="112" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="20" letter-spacing="6" fill="#4a6a8f">LORISCA-BUILDS &#183; WORKING TOOLS</text>
+
+  <text x="84" y="212" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="84" fill="#1e2d42">Tools that work.</text>
+
+  <text x="88" y="268" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#4a6a8f">Working tools with live demos and written playbooks.</text>
+  <text x="88" y="298" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#4a6a8f">Designed from my own failure modes.</text>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#1e2d42">
+    <rect x="88" y="328" width="238" height="34" rx="17" fill="#ffffff" stroke="#d5dfe8" stroke-width="1.5"/>
+    <text x="207" y="350" text-anchor="middle">ADHD PROJECT MANAGER</text>
+    <rect x="338" y="328" width="168" height="34" rx="17" fill="#ffffff" stroke="#d5dfe8" stroke-width="1.5"/>
+    <text x="422" y="350" text-anchor="middle">CLAUDE SKILLS</text>
+    <rect x="518" y="328" width="276" height="34" rx="17" fill="#ffffff" stroke="#d5dfe8" stroke-width="1.5"/>
+    <text x="656" y="350" text-anchor="middle">THE CMS BEHIND THIS SITE</text>
+  </g>
+
+  <!-- right: typographic index -->
+  <line x1="920" y1="80" x2="920" y2="400" stroke="#d5dfe8" stroke-width="2"/>
+  <text x="956" y="112" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="20" letter-spacing="6" fill="#4a6a8f">INDEX</text>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="16" fill="#1e2d42">
+    <text x="956" y="162"><tspan fill="#4a6a8f">01&#160;&#160;</tspan>ADHD PROJECT MANAGER</text>
+    <text x="956" y="188" font-size="14" fill="#4a6a8f">Live demo &#183; open playbook</text>
+
+    <text x="956" y="232"><tspan fill="#4a6a8f">02&#160;&#160;</tspan>CLAUDE SKILLS</text>
+    <text x="956" y="258" font-size="14" fill="#4a6a8f">12 skills &#183; 4 sets &#183; open source</text>
+
+    <text x="956" y="302"><tspan fill="#4a6a8f">03&#160;&#160;</tspan>THE CMS BEHIND THIS SITE</text>
+    <text x="956" y="328" font-size="14" fill="#4a6a8f">3 sites &#183; 1 admin &#183; 0 build step</text>
+  </g>
+</svg>
