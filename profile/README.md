@@ -74,7 +74,7 @@ My portfolio runs on plain HTML and JSON — and I edit every word of it from a 
 ## All repos
 
 <!-- REPOS:START -->
-- [lori-claude-skills](https://github.com/lorisca-builds/lori-claude-skills) — Twelve skills I built for Claude, each from a failure I got tired of repeating.
+- [lori-claude-skills](https://github.com/lorisca-builds/lori-claude-skills) — Twelve Claude skills built from real failures — knowledge retrieval, session handoff, ML notebook workflow, and small gu…
 <!-- REPOS:END -->
 
 ---
