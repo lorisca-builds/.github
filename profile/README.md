@@ -1,8 +1,8 @@
-<img src="./hero.svg" alt="Builds — Tools that work." width="100%">
+<img src="./hero.svg" alt="Builds \u00b7 The tools behind the work." width="100%">
 
-<p>Working tools with live demos and written playbooks. Designed from my own failure modes.</p>
+<p>Tools I built to run my own work, and apps I make for fun. Open a card on the site to see how each one works.</p>
 
-<p>The rule: no card without a live demo and a written playbook.</p>
+<p>Every card has working code and a walkthrough.</p>
 
 ---
 
@@ -12,17 +12,36 @@
 <tr>
 <td width="60%" valign="top">
 
-### ADHD Project Manager
+### The CMS behind this site
 
-A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board. Built for my ADHD; built so anyone can repurpose it.
+My portfolio runs on plain HTML and JSON. I edit every word of it from a custom admin panel, no developer needed.
 
-**Live demo · open playbook**
+**3 sites \u00b7 1 admin \u00b7 0 build step**
 
-[Repo](https://github.com/lori-sca/muse-adhd-project-manager) · [Live demo](https://lori-sca.github.io/muse-adhd-project-manager/board/index.html)
+[Repo](https://github.com/lori-sca/lori-sca.github.io) \u00b7 [Live site](https://lori-sca.github.io)
 
 </td>
 <td width="40%" valign="top">
-<img src="https://raw.githubusercontent.com/lori-sca/muse-adhd-project-manager/main/docs/screenshots/board.png" alt="Prioritized board of open loops" width="100%">
+<img src="https://raw.githubusercontent.com/lori-sca/lori-sca.github.io/main/assets/site-cms-diagram.svg?v=2" alt="Diagram: admin panel edits JSON, GitHub API commits, three sites go live" width="100%">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Open Loops Board
+
+A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board (Yes, I have ADHD haha). Built so you can repurpose it in your choice of LLMs.
+
+**In daily use since September \u00b7 live demo**
+
+[Repo](https://github.com/lori-sca/muse-adhd-project-manager) \u00b7 [Live demo](https://lori-sca.github.io/muse-adhd-project-manager/board/index.html)
+
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/lori-sca/muse-adhd-project-manager/main/docs/screenshots/board.png?v=4" alt="Open Loops board: demo items, real counts (83 shipped, 60 open)" width="100%">
 </td>
 </tr>
 </table>
@@ -35,9 +54,9 @@ A scheduled scan that catches everything I leave midway across AI chats and land
 
 Twelve skills I built for Claude, each from a failure I got tired of repeating. Four sets: finding what I already figured out, keeping decisions between chats, building ML notebooks that hold up, and catching costly errors.
 
-**12 skills · 4 sets · open source**
+**12 skills \u00b7 4 sets \u00b7 open source**
 
-[Repo](https://github.com/lorisca-builds/lori-claude-skills) · [Start with cross-project-extraction](https://github.com/lorisca-builds/lori-claude-skills/tree/main/cross-project-extraction)
+[Repo](https://github.com/lorisca-builds/lori-claude-skills) \u00b7 [Start with cross-project-extraction](https://github.com/lorisca-builds/lori-claude-skills/tree/main/cross-project-extraction)
 
 </td>
 <td width="40%" valign="top">
@@ -46,31 +65,7 @@ Twelve skills I built for Claude, each from a failure I got tired of repeating. 
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### The CMS behind this site
-
-My portfolio runs on plain HTML and JSON — and I edit every word of it from a custom admin panel, no developer needed.
-
-**3 sites · 1 admin · 0 build step**
-
-[Repo](https://github.com/lori-sca/lori-sca.github.io) · [Live site](https://lori-sca.github.io)
-
-</td>
-<td width="40%" valign="top">
-<img src="https://raw.githubusercontent.com/lori-sca/lori-sca.github.io/main/assets/site-cms-diagram.svg" alt="Diagram: admin panel edits JSON, GitHub API commits, three sites go live" width="100%">
-</td>
-</tr>
-</table>
-
 ---
-
-<p><i>More tools are in the workshop — each one earns its card here when it has a live demo and a written playbook.</i></p>
-
----
-
 ## All repos
 
 <!-- REPOS:START -->
