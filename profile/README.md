@@ -1,4 +1,4 @@
-<img src="./hero.svg" alt="Builds \u00b7 The tools behind the work." width="100%">
+<img src="./hero.svg" alt="Builds &#183; The tools behind the work." width="100%">
 
 <p>Tools I built to run my own work, and apps I make for fun. Open a card on the site to see how each one works.</p>
 
@@ -16,9 +16,9 @@
 
 My portfolio runs on plain HTML and JSON. I edit every word of it from a custom admin panel, no developer needed.
 
-**3 sites \u00b7 1 admin \u00b7 0 build step**
+**3 sites &#183; 1 admin &#183; 0 build step**
 
-[Repo](https://github.com/lori-sca/lori-sca.github.io) \u00b7 [Live site](https://lori-sca.github.io)
+[Repo](https://github.com/lori-sca/lori-sca.github.io) &#183; [Live site](https://lori-sca.github.io)
 
 </td>
 <td width="40%" valign="top">
@@ -35,9 +35,9 @@ My portfolio runs on plain HTML and JSON. I edit every word of it from a custom 
 
 A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board (Yes, I have ADHD haha). Built so you can repurpose it in your choice of LLMs.
 
-**In daily use since September \u00b7 live demo**
+**In daily use since September &#183; live demo**
 
-[Repo](https://github.com/lori-sca/muse-adhd-project-manager) \u00b7 [Live demo](https://lori-sca.github.io/muse-adhd-project-manager/board/index.html)
+[Repo](https://github.com/lori-sca/muse-adhd-project-manager) &#183; [Live demo](https://lori-sca.github.io/muse-adhd-project-manager/board/index.html)
 
 </td>
 <td width="40%" valign="top">
@@ -54,9 +54,9 @@ A scheduled scan that catches everything I leave midway across AI chats and land
 
 Twelve skills I built for Claude, each from a failure I got tired of repeating. Four sets: finding what I already figured out, keeping decisions between chats, building ML notebooks that hold up, and catching costly errors.
 
-**12 skills \u00b7 4 sets \u00b7 open source**
+**12 skills &#183; 4 sets &#183; open source**
 
-[Repo](https://github.com/lorisca-builds/lori-claude-skills) \u00b7 [Start with cross-project-extraction](https://github.com/lorisca-builds/lori-claude-skills/tree/main/cross-project-extraction)
+[Repo](https://github.com/lorisca-builds/lori-claude-skills) &#183; [Start with cross-project-extraction](https://github.com/lorisca-builds/lori-claude-skills/tree/main/cross-project-extraction)
 
 </td>
 <td width="40%" valign="top">
