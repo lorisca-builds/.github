@@ -37,11 +37,11 @@ A scheduled scan that catches everything I leave midway across AI chats and land
 
 **In daily use since September &#183; live demo**
 
-[Repo](https://github.com/lori-sca/muse-adhd-project-manager) &#183; [Live demo](https://lori-sca.github.io/muse-adhd-project-manager/board/index.html)
+[Repo](https://github.com/lorisca-builds/muse-adhd-project-manager) &#183; [Live demo](https://lorisca-builds.github.io/muse-adhd-project-manager/board/index.html)
 
 </td>
 <td width="40%" valign="top">
-<img src="https://raw.githubusercontent.com/lori-sca/muse-adhd-project-manager/main/docs/screenshots/board.png?v=4" alt="Open Loops board: demo items, real counts (83 shipped, 60 open)" width="100%">
+<img src="https://raw.githubusercontent.com/lorisca-builds/muse-adhd-project-manager/main/docs/screenshots/board.png?v=4" alt="Open Loops board: demo items, real counts (83 shipped, 60 open)" width="100%">
 </td>
 </tr>
 </table>
