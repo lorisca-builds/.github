@@ -69,7 +69,8 @@ Twelve skills I built for Claude, each from a failure I got tired of repeating. 
 ## All repos
 
 <!-- REPOS:START -->
-- [lori-claude-skills](https://github.com/lorisca-builds/lori-claude-skills) — Twelve Claude skills built from real failures — knowledge retrieval, session handoff, ML notebook workflow, and small gu…
+- [lori-claude-skills](https://github.com/lorisca-builds/lori-claude-skills): Twelve Claude skills built from real failures: knowledge retrieval, session handoff, ML notebook workflow, and small guardrails.
+- [muse-adhd-project-manager](https://github.com/lorisca-builds/muse-adhd-project-manager): Built for Muse: a scheduled scan catches what you left midway across your AI chats and puts it on one prioritized board.
 <!-- REPOS:END -->
 
 ---
