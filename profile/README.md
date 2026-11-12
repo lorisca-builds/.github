@@ -8,6 +8,7 @@
 
 ## Shipped
 
+<!-- SHIPPED:START -->
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -64,6 +65,7 @@ Twelve skills I built for Claude, each from a failure I got tired of repeating. 
 </td>
 </tr>
 </table>
+<!-- SHIPPED:END -->
 
 ---
 ## All repos
