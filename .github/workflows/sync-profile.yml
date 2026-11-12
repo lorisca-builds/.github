@@ -1,0 +1,47 @@
+name: Sync org page
+
+# Rebuilds the Shipped and All repos sections of profile/README.md from the
+# Builds hub's data/projects.json. Runs every hour and on demand. Writes a
+# commit only when the page changed.
+#
+# scripts/sync-profile.mjs is a copy of the one in lorisca-analytics/.github,
+# where its tests live. Change it there first, then copy it here.
+
+on:
+  schedule:
+    - cron: "29 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/sync-profile.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-profile
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Rebuild the page
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/sync-profile.mjs --target builds --write
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "Page already up to date."
+            exit 0
+          fi
+          git config user.name "Lorisca Tuuk"
+          git config user.email "loriscatuuk@gmail.com"
+          git add profile/README.md
+          git commit -m "Org page: sync with the Builds hub"
+          git push
